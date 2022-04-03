@@ -8,8 +8,6 @@ public class HomeWork3 {
         fillArray();
         changeArray();
         fillDiagonal();
-
-
         System.out.println(Arrays.toString(createArray(5,6)));
     }
 
